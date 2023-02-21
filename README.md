@@ -64,7 +64,7 @@ After you're finished please remove all the comments and instructions!
 
 > Describe your project in 1 or 2 sentences.
 
-**[your_project__name]** is a...
+**Todo List** is a web application that allows you to input list of todos. It also helps you manage your daily tasks and routines.
 
 ## 🛠 Built With <a name="built-with">HTML, CSS, JavaScript</a>
 
